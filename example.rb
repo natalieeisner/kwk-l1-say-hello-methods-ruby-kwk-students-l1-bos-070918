@@ -11,4 +11,3 @@ def say_hello(your_name)
 end
 
 say_hello ("Natalie")
-say_hello ("")
